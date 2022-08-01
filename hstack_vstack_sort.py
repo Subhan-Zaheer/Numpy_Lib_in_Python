@@ -1,4 +1,5 @@
 import numpy as np
+import timeit as tm
 
 if __name__ == '__main__':
     a = np.round(10*np.random.rand(2, 4))
